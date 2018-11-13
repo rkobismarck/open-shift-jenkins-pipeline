@@ -22,6 +22,7 @@ After the sign up process, you need to wait until Red Hat gave you green light a
 3. Click in open web console.
 4. In the rigth side of your screen please, click in **create project**
 ![alt text](https://github.com/rkobismarck/open-shift-jenkins-pipeline/blob/master/media-content/open-shift-3.png "Create Project")
+
 5. Let's call it **jenkins-devops**
 ![alt text](https://github.com/rkobismarck/open-shift-jenkins-pipeline/blob/master/media-content/open-shift-4.png "Naming Project")
 6. Click in create button.
