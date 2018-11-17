@@ -8,6 +8,5 @@ sudo mv /home/ubuntu/openshift/openshiftTemporal/oc /usr/local/sbin
 
 chmod +x /usr/local/sbin/oc
 
-oc login
 
 
